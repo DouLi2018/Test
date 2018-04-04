@@ -1,2 +1,2 @@
-Git is a test version control system.
+Git is a test version control system. Version 2
 Git is free test software.
